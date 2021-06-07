@@ -21,6 +21,10 @@
      */
     var services = [
         {
+            service: 'Netflix Mod',
+            androidPackageNames: ['com.sunset.collage']
+        },
+        {
             service: 'OSN',
             androidPackageNames: ['com.osn.go']
         },
